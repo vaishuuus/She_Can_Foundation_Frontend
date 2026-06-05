@@ -18,7 +18,8 @@ Shared as mp4 file
 
 ## 📸 Preview
 <img width="959" height="479" alt="Screenshot 2026-06-05 182222" src="https://github.com/user-attachments/assets/f56e1b72-d71b-473a-9576-f3555c2b4c6b" />
-<img width="959" height="479" alt="Screenshot 2026-06-05 182222" src="https://github.com/user-attachments/assets/fdd9c33a-fc43-4c37-8870-3988e68f4049" />
+<img width="958" height="475" alt="Screenshot 2026-06-05 182240" src="https://github.com/user-attachments/assets/e814e0e5-c150-42b2-bfa8-160838b3788d" />
+
 <img width="959" height="476" alt="Screenshot 2026-06-05 182249" src="https://github.com/user-attachments/assets/1de02b2a-b95f-4ada-9ffa-dbd79616d704" />
 
 
