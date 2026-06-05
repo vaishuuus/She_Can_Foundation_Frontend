@@ -50,4 +50,4 @@ Shared as mp4 file
 |------|---------|
 | index.html | Page structure |
 | style.css | All styling |
-| preview.png | Screenshot of webpage |
+
